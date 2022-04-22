@@ -6,7 +6,11 @@
 
 xcuserdata/
 <<<<<<< HEAD
+<<<<<<< HEAD
 DS_Store
+=======
+.DS_Store
+>>>>>>> BlueTexts
 =======
 .DS_Store
 >>>>>>> BlueTexts
