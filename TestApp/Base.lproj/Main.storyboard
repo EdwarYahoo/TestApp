@@ -45,7 +45,11 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="folder.fill.badge.plus" catalog="system" translatesAutoresizingMaskIntoConstraints="NO" id="JRG-4f-cEl">
-                                <rect key="frame" x="88" y="558" width="240" height="128"/>
+                                <rect key="frame" x="20" y="562" width="172" height="74"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="square.and.arrow.down.fill" catalog="system" translatesAutoresizingMaskIntoConstraints="NO" id="aeW-Fo-gji">
+                                <rect key="frame" x="192" y="560" width="172" height="74"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
                         </subviews>
@@ -60,6 +64,7 @@
     </scenes>
     <resources>
         <image name="folder.fill.badge.plus" catalog="system" width="128" height="91"/>
+        <image name="square.and.arrow.down.fill" catalog="system" width="121" height="128"/>
         <systemColor name="systemBackgroundColor">
             <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
         </systemColor>
